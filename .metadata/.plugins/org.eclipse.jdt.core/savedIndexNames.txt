@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+/home/msmariano/ControleRemotoJava/.metadata/.plugins/org.eclipse.jdt.core
+1064048002.index
+4006945976.index
+542500807.index
+2260484268.index
+1156590856.index
+4014845471.index
+4074758005.index
+3989559639.index
+3660745992.index
+1017201981.index
+3019653789.index
+2723692006.index
+1766753538.index
+3246167524.index
+2881932768.index
+1370443046.index
+86378277.index
